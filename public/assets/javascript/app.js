@@ -1,4 +1,3 @@
-// Michael Osgood / Web Scraping Application
 
   // Grab the articles as a json
   $.getJSON("/articles", function(data) {
